@@ -18,6 +18,11 @@
 }
 .text1{
     margin-bottom: 21px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    text-indent: 20px;
+     font-weight: bold;
+     font-style: italic;
 } 
 /*contact page*/
 
